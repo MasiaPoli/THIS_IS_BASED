@@ -12,9 +12,14 @@ int main()
     }
     while(1)
     {
-        printf("If you want to add write 0, age, points and name, if you want to delete, write 1 and index, if you want to see, write 2, if you want to sort, write 3 and number of type - 0 - age, 1 - points, 2 - name, if you want to add from file, write 4 and file's name, if you want to write to file, write 5 and file's name\n");
-        printf("If you want to sort in reverse order, write 6 and number of type (0 - age, 1 - points, 2 - name), if you want to see a bar char, write 7 and 0 if you want to see age char, 1 if you want to see points char \n");
-        printf("If you want to see a circle char, write 8 and if you want to see age char, write 0, if you want to see points char, write 1. If you want to stop, write 9\n");
+        printf("If you want to add write 0, age, points and name\n");
+        printf("If you want to see, write 2\n");
+        printf("If you want to sort, write 3 and number of type - 0 - age, 1 - points, 2 - name\n");
+        printf("If you want to add from file, write 4 and file's name, if you want to write to file, write 5 and file's name\n");
+        printf("If you want to sort in reverse order, write 6 and number of type (0 - age, 1 - points, 2 - name)\n");
+        printf("If you want to see a bar char, write 7 and 0 if you want to see age char, 1 if you want to see points char \n");
+        printf("If you want to see a circle char, write 8 and if you want to see age, write 0, if you want to see points, write 1\n");
+        printf("If you want to stop, write 9\n");
         int x;
         scanf("%d", &x);
         int age;

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1711798485 source:c:\spbugit\this_is_based\data.c
+	"data.h"
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"string.h"
+	<graphics.h>
+	<math.h>
+
+1711196544 c:\spbugit\this_is_based\data.h
+	<stddef.h>
+

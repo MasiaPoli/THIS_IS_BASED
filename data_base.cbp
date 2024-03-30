@@ -42,10 +42,6 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="safe_read_string.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="safe_read_string.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
